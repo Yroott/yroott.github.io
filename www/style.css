@@ -1,0 +1,15 @@
+p {
+    color: greenyellow;
+}
+.default_text {
+    color: teal;
+}
+.default_text.text-center{
+    text-align: center;
+}
+#text {
+    color:darkolivegreen;
+}
+a:hover {
+    color: orange;
+}
